@@ -20,10 +20,14 @@ body {text-align: center; font-family: Arial; font-size: 30px;
   display: block;
  margin-right: auto;
 }
+.square-list {
+  list-style-type: square;
+}
 li{
   color:rgb(225, 48, 4);font-size:20px; text-align: center;
   list-style-position: inside; margin: 5;
 }
+
 div {
   margin: 20px;
   width: 100px; 
