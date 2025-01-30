@@ -22,7 +22,7 @@ body {text-align: center; font-family: Arial; font-size: 30px;
 }
 .square-list {
     list-style-type: square;
-    margin: 20px;
+    margin: 20px auto;
     padding: 10px;
     background: orange;
     border-radius: 10px;
@@ -30,7 +30,7 @@ body {text-align: center; font-family: Arial; font-size: 30px;
 }
   
 li {
-    text-align: center; 
+    text-align: left; 
     list-style-position: outside; 
     color: rgb(225, 48, 4);
     font-size: 20px;
